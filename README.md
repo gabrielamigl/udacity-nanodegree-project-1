@@ -46,8 +46,6 @@ The function will iterate on the given directory and invoke the given function, 
 #### `etl.ipynb`
 That's just a notebook to explore the operation of the ETL process from a single file point of view. It's not a mandatory execution.
 
-#### `test.ipynb`
-This notebook's goal is to check the data that is stored on the database and it's not a necessary execution. If desired to check the records, it should be executed after the ETL process is finished.
 
 ## Tables 
 
