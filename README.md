@@ -9,7 +9,7 @@ The right order to execute this project is:
 2. `etl.py`
 
 
-`create_tables.py`is the script in charge of the database creation and tables dropping and creation. `etl.py` is the script that executes the ETL job logic itself. Its job is to iterate the files according to the data directories given, load the JSON files, process the data and save the result on the database. 
+`create_tables.py` is the script in charge of the database creation and tables dropping and creation. `etl.py` is the script that executes the ETL job logic itself. Its job is to iterate the files according to the data directories given, load the JSON files, process the data and save the result on the database. 
 
 
 ### Notebooks - extra
